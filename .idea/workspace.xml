@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f2f1ddc9-0a4e-44e5-ba86-6e0bc57b474c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client-profile.html" afterPath="$PROJECT_DIR$/client-profile.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -235,7 +234,7 @@
       <updated>1564406505760</updated>
       <workItem from="1564406507162" duration="15005000" />
       <workItem from="1564471804707" duration="1191000" />
-      <workItem from="1564473271794" duration="8698000" />
+      <workItem from="1564473271794" duration="8817000" />
     </task>
     <task id="LOCAL-00001" summary="Update on web UI">
       <created>1564481021518</created>
@@ -244,11 +243,18 @@
       <option name="project" value="LOCAL" />
       <updated>1564481021518</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="extra update on x3 leasing ui">
+      <created>1564483219414</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1564483219414</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24894000" />
+    <option name="totallyTimeSpent" value="25013000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1551" height="839" extended-state="6" />
@@ -282,7 +288,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update on web UI" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update on web UI" />
+    <MESSAGE value="extra update on x3 leasing ui" />
+    <option name="LAST_COMMIT_MESSAGE" value="extra update on x3 leasing ui" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
